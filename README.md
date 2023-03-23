@@ -5,3 +5,6 @@ task
 ㅎㅇ ㅋㅋ
 
 github is goat
+
+실습3
+2-1 Merge test
